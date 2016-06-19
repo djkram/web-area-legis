@@ -1,0 +1,22 @@
+/*
+* Area legil web v.1
+* aurthor: Marc Planagumà
+*/
+body {
+	background-color: #CD7142;
+	/*background-color: #B87241;*/
+
+	/*
+	background: rgb(184, 114, 65);
+   	background: rgba(184, 114, 65, 1); 
+   	*/
+}
+
+.al_names{
+	font-family: ExistenceLight;
+	font-size: large;
+	font-weight: bold;
+	text-align: center;
+	color: #FFF;
+	margin-bottom: 15 px;	
+}
